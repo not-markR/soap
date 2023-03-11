@@ -96,12 +96,13 @@ main{
     background-size: cover;
     display: flex;
     justify-content: center;
+    align-items:center;
     text-transform: capitalize;
     text-align: center;
     border-bottom: 5px solid #39682c;
 }
 .frpage-container{
-    margin-top: 10%;
+    margin-bottom: 10%;
 }
 .frpage-container h1{
     font-size: 100px;
